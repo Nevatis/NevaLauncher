@@ -3,7 +3,7 @@
     "type": "update",
     "tag": "v1.1.0 Yaması",
     "date": "13 Mart 2026",
-    "title": "Neva Launcher İçin Bulut Dönemi Başladı!",
+    "title": "Neva Launcher Update",
     "description": "Sizlere çok daha güvenli, akıcı ve premium bir oyun deneyimi sunabilmek için Neva Launcher'ın çekirdek mimarisini baştan aşağı yeniledik. Artık kişisel hesaplarınızla giriş yapabilir, tüm yenilikleri anında takip edebilirsiniz.",
     "changes": [
       "Neva Bulut Hesapları: Artık tamamen ücretsiz, size özel ve güvenli Neva hesaplarınızla sisteme kayıt olup giriş yapabilirsiniz.",
@@ -23,3 +23,4 @@
     "changes": []
   }
 ]
+
