@@ -1,0 +1,22 @@
+[
+  {
+    "type": "update",
+    "tag": "v2.1.0 Yaması",
+    "date": "15 Mart 2026",
+    "title": "Dinamik Haber Sistemi",
+    "description": "Neva Launcher artık tüm duyuruları anlık olarak buluttan çekiyor. İstemciyi güncellemeye gerek kalmadan en son yeniliklere anında ulaşabileceksiniz.",
+    "changes": [
+      "Haber Merkezi Github JSON altyapısına bağlandı.",
+      "Görsel arayüzdeki ikonlar güncellendi.",
+      "Optimizasyon iyileştirmeleri yapıldı."
+    ]
+  },
+  {
+    "type": "announcement",
+    "tag": "Topluluk Duyurusu",
+    "date": "13 Mart 2026",
+    "title": "Discord Sunucumuz Açılıyor",
+    "description": "Yakında tüm oyuncularımızın bir araya gelip destek alabileceği, birlikte oyun oynayabileceği resmi Neva Launcher Discord sunucumuz açılacaktır. Takipte kalın!",
+    "changes": []
+  }
+]
