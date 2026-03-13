@@ -11,7 +11,8 @@
       "Gelişmiş Profil Merkezi: Kendi e-postanızı ve hesap durumunuzu görebileceğiniz yepyeni bir Profil sekmesi eklendi.",
       "Anında Şifre Sıfırlama: Şifrenizi unutursanız endişelenmeyin. Profil menüsü üzerinden tek tıkla e-postanıza güvenli sıfırlama bağlantısı gönderebilirsiniz.",
       "Modern Bildirim Sistemi: Ekranın ortasında çıkan rahatsız edici Windows uyarıları tamamen kaldırıldı. Yerini sağ üst köşeden yumuşakça kayarak gelen şık bildirimler aldı.",
-      "Canlı Haber Merkezi: Şu an okuduğunuz bu sayfa arayüze entegre edildi! Artık uygulamayı güncellemenize gerek kalmadan Neva hakkındaki en son duyurulara ve yama notlarına anında ulaşabileceksiniz."    ]
+      "Canlı Haber Merkezi: Şu an okuduğunuz bu sayfa arayüze entegre edildi! Artık uygulamayı güncellemenize gerek kalmadan Neva hakkındaki en son duyurulara ve yama notlarına anında ulaşabileceksiniz."
+    ]
   },
   {
     "type": "announcement",
@@ -21,5 +22,4 @@
     "description": "Yakında tüm oyuncularımızın bir araya gelip destek alabileceği, birlikte oyun oynayabileceği resmi Neva Launcher Discord sunucumuz açılacaktır. Takipte kalın!",
     "changes": []
   }
-
 ]
