@@ -1,9 +1,10 @@
 [
-  {
+{
     "type": "update",
+    "image": "",
     "tag": "v1.1.0 Yaması",
     "date": "13 Mart 2026",
-    "title": "Neva Launcher Update",
+    "title": "Neva Launcher İçin Bulut Dönemi Başladı!",
     "description": "Sizlere çok daha güvenli, akıcı ve premium bir oyun deneyimi sunabilmek için Neva Launcher'ın çekirdek mimarisini baştan aşağı yeniledik. Artık kişisel hesaplarınızla giriş yapabilir, tüm yenilikleri anında takip edebilirsiniz.",
     "changes": [
       "Neva Bulut Hesapları: Artık tamamen ücretsiz, size özel ve güvenli Neva hesaplarınızla sisteme kayıt olup giriş yapabilirsiniz.",
@@ -16,6 +17,7 @@
   },
   {
     "type": "announcement",
+    "image": "https://i.ytimg.com/vi/02mDs46Y0zU/maxresdefault.jpg",
     "tag": "Topluluk Duyurusu",
     "date": "13 Mart 2026",
     "title": "Discord Sunucumuz Açılıyor",
@@ -23,4 +25,3 @@
     "changes": []
   }
 ]
-
